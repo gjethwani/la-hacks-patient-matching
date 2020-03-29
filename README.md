@@ -21,3 +21,5 @@ Members:
 3. To feed data from `input.csv` to the trained network and group patients, run `python3 predict.py`. This should spit out a file called `result.txt` with each line being a group. It will be formatted like this: `{group_id}: {array of patient IDs}`
 
 ## Contact info
+gdjethwa@usc.edu
+Devpost submission: https://devpost.com/software/un1fy
